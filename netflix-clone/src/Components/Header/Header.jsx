@@ -1,4 +1,3 @@
-import React from "react";
 import logo from "../../assets/images/netflix.png";
 import "./Header.css";
 import { IoSearchOutline } from "react-icons/io5";
