@@ -1,20 +1,5 @@
-// import React from "react";
-// import "./header.css";
-
-// const Header = () => {
-//   return (
-//     <div className="heder_outer_container">
-//       <div className="header_container">
-//         <div className="header_left"></div>
-//       </div>
-//     </div>
-//   );
-// };
-
-// export default Header;
-
 import React from "react";
-import logo from "../../Assets/images/netflix.png";
+import logo from "../../assets/images/netflix.png";
 import "./Header.css";
 import { IoSearchOutline } from "react-icons/io5";
 import { IoMdNotificationsOutline } from "react-icons/io";
